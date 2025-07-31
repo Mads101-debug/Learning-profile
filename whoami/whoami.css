@@ -1,0 +1,63 @@
+/* JUST FOR VISIUALS */
+* {
+ /*    outline: 1px solid red; */
+}
+
+/* HEADER SECTION */
+#funny-panel{
+    justify-content: left;
+    height: 330px;
+}
+
+#robert-img {
+    z-index: 99;
+}
+
+#quote {
+    top: 5rem;
+    left: 11.2rem;
+    padding: 0.5rem;
+    width: 25rem;
+    position: absolute;
+}
+
+#who {
+    position: relative;
+    margin: 15px 15px 18px 330px;
+    padding: 25px 10px;
+    width: 50rem;
+    line-height: 2rem;
+    overflow: hidden;
+    overflow-y: auto;
+}
+
+/* MAIN SECTION */
+/* MUSIC SECTION */
+#music-panel {
+    justify-content: left;
+    padding: 1rem;
+    height: 500px;
+    gap: 20px;
+}
+
+#music-selection {
+/*     height: 455px;
+    overflow-y: auto; */
+    width: 500px;
+    justify-content: left;
+}
+
+#music-question {
+    height: 100px;
+    width: 500px;
+    align-content: center;
+}
+
+/* GAMES SECTION */
+#games {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    height: 500px;
+}
+
+
